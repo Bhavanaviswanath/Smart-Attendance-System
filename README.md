@@ -37,11 +37,14 @@ The **Smart Attendance System** is an AI-powered solution that uses **facial rec
 ---
 ## sample outputs 
 
-![image](https://github.com/GudepuRakshitha/Smart-Attendance-System-using-Facial-Recognition/blob/55ca9c9a612596ee1f28f1758f26f6b8ae8ebd2b/sas1.png)
+![SAS 1](https://raw.githubusercontent.com/Bhavanaviswanath/Smart-Attendance-System-Using-Facial-Recognition/6af8b9c3f4de054707a9f3467af7ce46fb0dc4c1/sas1.png)
 
-![image](https://github.com/GudepuRakshitha/Smart-Attendance-System-using-Facial-Recognition/blob/55ca9c9a612596ee1f28f1758f26f6b8ae8ebd2b/sas3.png)
+![SAS 3](https://raw.githubusercontent.com/Bhavanaviswanath/Smart-Attendance-System-Using-Facial-Recognition/6af8b9c3f4de054707a9f3467af7ce46fb0dc4c1/sas3.png)
 
-![image](https://github.com/GudepuRakshitha/Smart-Attendance-System-using-Facial-Recognition/blob/55ca9c9a612596ee1f28f1758f26f6b8ae8ebd2b/sas4.png)
+![SAS 4](https://raw.githubusercontent.com/Bhavanaviswanath/Smart-Attendance-System-Using-Facial-Recognition/6af8b9c3f4de054707a9f3467af7ce46fb0dc4c1/sas4.png)
+
+![SAS 2](https://raw.githubusercontent.com/Bhavanaviswanath/Smart-Attendance-System-Using-Facial-Recognition/6af8b9c3f4de054707a9f3467af7ce46fb0dc4c1/sas2.jpeg)
+
 
 ## 🧠 How It Works
 Dataset Collection:
